@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\bin\Debug\net6.0\SobreCarga02.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\bin\Debug\net6.0\SobreCarga02.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\bin\Debug\net6.0\SobreCarga02.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\bin\Debug\net6.0\SobreCarga02.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\bin\Debug\net6.0\SobreCarga02.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\refint\SobreCarga02.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\SobreCarga02.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\SobreCarga02\obj\Debug\net6.0\ref\SobreCarga02.dll
